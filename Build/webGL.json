@@ -1,6 +1,6 @@
 {
-"companyName": "G_11",
-"productName": "GGJ_2051",
+"companyName": "DefaultCompany",
+"productName": "Text101",
 "productVersion": "0.1",
 "dataUrl": "webGL.data.unityweb",
 "wasmCodeUrl": "webGL.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.18f1"
+"unityVersion": "2019.3.15f1"
 }
